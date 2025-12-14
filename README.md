@@ -65,6 +65,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shriya-2701&show_icons=true&locale=en" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriya-2701" />
-</p>
