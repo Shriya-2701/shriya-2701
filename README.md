@@ -58,13 +58,13 @@
 ---
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHRIYA_GITHUB&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriya-2701&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHRIYA_GITHUB&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriya-2701&show_icons=true&locale=en" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHRIYA_GITHUB" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriya-2701" />
 </p>
